@@ -10,7 +10,8 @@ This is a portfolio website to display some services of the company "Vandalay In
 Header is the component at the top of the website. It contains logo, name and navigation bar.
 Here is the code for the header we have:
 
-```html  <header>
+```html  
+<header>
         <div class="logo-name">
             <a href="./index.html">
                 <img src="https://nexted.com.au/wp-content/uploads/2023/07/CODR_Logo_Black-_-Green_RGB.png"
